@@ -13,3 +13,5 @@ KELAS   : 2B TRPL
 
 3. MENGGUNAKAN NGROK UNTUK API PUBLIC
 ![alt text](image-1.png)
+
+![alt text](image-3.png)
